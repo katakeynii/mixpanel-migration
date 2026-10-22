@@ -1,0 +1,8 @@
+[
+  {
+    "name": "companies",
+    "group_key": "company_id",
+    "source_data_group_id": "SOURCE_DATA_GROUP_ID",
+    "target_data_group_id": "TARGET_DATA_GROUP_ID"
+  }
+]

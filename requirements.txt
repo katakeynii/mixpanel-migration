@@ -1,0 +1,2 @@
+mixpanel-utils==2.2.7
+python-dotenv>=1.0,<2
